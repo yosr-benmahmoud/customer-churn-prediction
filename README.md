@@ -26,7 +26,7 @@ Predict whether a customer will churn (leave the service) based on their profile
 - `ml_ready_data.csv`, `powerbi_ready_data.csv` → Cleaned datasets
 
 ## 🖼️ Dashboard Preview
-![dashboard](dashboard_screenshot.png)
+![dashboard](ChurnCustomersDashboard.png)
 
 ## 🙋‍♀️ Author
 Yosr Benmahmoud
